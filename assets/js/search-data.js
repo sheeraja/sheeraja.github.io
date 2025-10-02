@@ -107,6 +107,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-blogger',
+        title: 'Blogger',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://sheerajarajakrishnan.wordpress.com/", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
