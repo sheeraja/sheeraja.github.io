@@ -107,13 +107,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-blogger',
-        title: 'Blogger',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://sheerajarajakrishnan.wordpress.com/", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -147,6 +140,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=7q1PgO4AAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://sheerajarajakrishnan.wordpress.com/", "_blank");
         },
       },{
       id: 'light-theme',
