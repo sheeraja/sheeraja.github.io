@@ -25,6 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<br>
+
 I am a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology](https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
 
 My research interests include reinforcement learning and uncertainty-aware machine learning. My dissertation aims to develop uncertainty-aware modules and methodologies that can improve the trustworthiness of machine learning models in everyday life.
