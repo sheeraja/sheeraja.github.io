@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Student @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
+subtitle: <a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: left
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 <br>
-I am a Ph.D. student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology](https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
+I am a Ph.D. candidate in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/overview) at [the Rochester Institute of Technology](https://www.rit.edu/), where I am advised by [Prof. Daniel Krutz](https://www.rit.edu/computing/directory/dxkvse-daniel-krutz).
 
 My research interests include reinforcement learning and uncertainty-aware machine learning. My dissertation aims to develop uncertainty-aware modules and methodologies that can improve the trustworthiness of machine learning models in everyday life.
 
