@@ -4,16 +4,16 @@
     - name: Name
       value: Sheeraja Rajakrishnan
     - name: Title
-      value: PhD Student
+      value: PhD Candidate
     - name: E-Mail
       value: srajakri@gmail.com
     - name: Summary
-      value: PhD student researching uncertainty-aware reinforcement learning
+      value: PhD candidate researching uncertainty-aware reinforcement learning
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Rochester Institute of Technology, Rochester, NY
       year: 2022 - Present
       description:
