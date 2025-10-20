@@ -4,11 +4,11 @@
     - name: Name
       value: Sheeraja Rajakrishnan
     - name: Title
-      value: PhD Candidate
+      value: Ph.D. Candidate
     - name: E-Mail
       value: srajakri@gmail.com
     - name: Summary
-      value: PhD candidate researching uncertainty-aware reinforcement learning
+      value: Ph.D. candidate researching uncertainty-aware reinforcement learning
 
 - title: Education
   type: time_table
