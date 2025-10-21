@@ -640,8 +640,8 @@ jekyll_get_json:
 jsonresume:
   - basics
   - education
-  # - experience
   - work
+  # - experience
   # - publications
   # - projects
   # - volunteer
