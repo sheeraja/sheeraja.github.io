@@ -6,11 +6,7 @@
     "email": "srajakri@gmail.com",
     "phone": "",
     "url": "https://sheeraja.github.io/",
-<<<<<<< HEAD
     "summary": "Ph.D. student researching uncertainty-aware reinforcement learning"
-=======
-    "summary": "PhD student researching uncertainty-aware reinforcement learning"
->>>>>>> parent of 4f5fe85 (Update resume.json)
   },
   "education": [
     {
@@ -47,7 +43,7 @@
       "courses": [""]
     }
   ],
-  "Experience": [
+  "work": [
     {
       "name": "Rochester Institute of Technology",
       "position": "Machine Learning Researcher",
