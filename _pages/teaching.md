@@ -14,6 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 **September 2025** - _An Introduction to Machine Learning_ – Guest lecture for SWEN101: Software Engineering Freshman Seminar, Golisano College of Computing and Information Sciences, Rochester Institute of Technology
 
 **February 2025** - _Uncertainty in Machine Learning_ – Guest lecture for CSCI736: Neural Networks and Machine Learning, Golisano College of Computing and Information Sciences, Rochester Institute of Technology
+[Lecture Slides (PDF)](/assets/pdf/CSCI_736_NN_ML_Uncertainty_Talk_Slides.pdf)
 
 **July 2024** - _An Introduction to Machine Learning_ – Invited talk at GenCyber Summer Camp for 8th-12th grade students, Rochester Institute of Technology
 
