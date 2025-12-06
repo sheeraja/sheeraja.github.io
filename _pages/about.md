@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
+subtitle: <i class="fas fa-envelope"></i><a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: left
@@ -31,7 +31,7 @@ I am a Ph.D. candidate in the [Golisano College of Computing and Information Sci
 
 My research interests include reinforcement learning and uncertainty-aware machine learning. My dissertation aims to develop uncertainty-aware modules and methodologies that can improve the trustworthiness of machine learning models in everyday life.
 
-<br>
+<br><br>
 My research focuses on uncertainty-aware reinforcement learning (RL). The predictions made by machine learning models are often unreliable and tend to be overconfident. Machine learning models usually process unseen or out-of-distribution data with high confidence. In critical applications such as medical diagnoses, autonomous driving, and recommendation systems, unreliable predictions can have severe repercussions, including death, incorrect medical diagnoses, or inadequate treatment for a medical condition. If the machine learning model provided an uncertainty estimate, it would make it easier for a human to intervene and take the appropriate action to avoid these ramifications. Uncertainty estimation can guide an RL agent in learning more efficiently and much faster. My research aims to design an uncertainty-aware RL world model that is trustworthy and can achieve better performance compared to existing state-of-the-art RL world models.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
