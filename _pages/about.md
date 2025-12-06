@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i class="fas fa-envelope"></i><a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
+subtitle: <a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info:
-    <a href="mailto:srajakri@gmail.com">srajakri@gmail.com</a>
+    <i class="fas fa-envelope"></i> <a href="mailto:srajakri@gmail.com">srajakri@gmail.com</a>
     <!-- <p>Rochester, NY</p> -->
 
 selected_papers: false # true # includes a list of papers marked as "selected={true}"
