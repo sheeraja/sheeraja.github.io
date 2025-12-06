@@ -5,7 +5,7 @@ permalink: /
 subtitle: <i class="fas fa-envelope"></i><a href='#'>PhD Candidate @ Rochester Institue of Technology</a> <!-- . sheeraja@mail.rit.edu. Address. Contacts. Motto. Etc. -->
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info:
