@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Teaching/
+permalink: /Other/
 title: Teaching
 description: Invited Talks and Guest Lectures
 nav: true
