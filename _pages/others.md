@@ -2,7 +2,7 @@
 layout: page
 permalink: /Other Activities/
 title: Other Activities
-description: Other activities
+description: 
 nav: true
 nav_order: 6
 ---
