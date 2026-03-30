@@ -21,7 +21,7 @@ ninja.data = [{
           description: "Invited Talks and Guest Lectures",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Other/";
+            window.location.href = "/Teaching/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
