@@ -11,6 +11,8 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-**2023, 2024, 2025, 2026** <br> _ASA DataFest_ – Mentor / Judge / Steering Committee, Rochester Institute of Technology. 
+**2026** <br> _International Joint Conference on Neural Networks (IJCNN)_ - Reviewer
 
 **2024, 2025** <br> _Rochester Pre-College Data Science Challenge_ – Mentor / Judge, Rochester Institute of Technology.
+
+**2023, 2024, 2025, 2026** <br> _ASA DataFest_ – Mentor / Judge / Steering Committee, Rochester Institute of Technology. 
