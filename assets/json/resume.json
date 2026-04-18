@@ -63,7 +63,7 @@
       "endDate": "2022",
       "summary": "",
       "highlights": [
-        "Analyzed video visits data and developed multiple Tableau reports to communicate insights to stakeholders",
+        "Analyzed video visits data and developed multiple Tableau reports with insights for stakeholders",
         "Developed an interactive Tableau dashboard and custom Google Analytics reports and dashboards for analyzing COVID-19 web traffic",
         "Worked on a PoC algorithm for face recognition using Python and the sklearn package",
         "Created a dynamic Tableau dashboard to track all the published reports on the Tableau server, using the PostgreSQL Tableau Server Repository",
@@ -79,7 +79,7 @@
       "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Automated a portion of the testing process to reduce the testing time from 20 minutes to 30 seconds, using Python",
+        "Automated a part of the testing process to reduce testing time from 20 minutes to 30 seconds, using Python",
         "Worked on QA and database regression testing"
       ]
     },
@@ -112,7 +112,7 @@
       "endDate": "2017",
       "summary": "",
       "highlights": [
-        "Worked as a Lead for a few projects, in the Visual Analytics team, to report the performance of the business, using Tableau",
+        "Worked as a Lead for a few projects, in the Visual Analytics team of an American multinational banking and financial services corporation, to report the performance of the business, using Tableau",
         "Performed K-means clustering for customer segmentation, correlation analysis for customer spending patterns, and trend analysis on customer spending data using R, Hive, and Impala",
         "Created a few custom views, such as a chord chart, an arc chart, and a hexagonal map, in Tableau",
         "Developed an algorithm, using Impala, to validate transactions that were flagged as fraudulent transactions",
@@ -127,7 +127,8 @@
       "endDate": "2015",
       "summary": "",
       "highlights": [
-        "Worked for the in-house Products Team to build a Naive Bayes Classifier Package, using R, to perform classification of textual and non-textual data",
+        "Worked for the in-house Products Team to build a Naive Bayes Classifier Package, using \textbf{R (RStudio)}, to perform classification of textual and non-textual data",
+        "Analyzed available data to identify major factors affecting the sales, of a dish washing soap, for one of world's largest consumer goods company using \textbf{SQL}, \textbf{R} and \textbf{Tableau}",
         "Worked with the Business Intelligence team of a major multinational mass media and information client to perform data analyses and generate analytic reports using SAP Business Objects and Tableau"
       ]
     }
