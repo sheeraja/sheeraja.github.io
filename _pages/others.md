@@ -2,7 +2,7 @@
 layout: page
 permalink: /Other Activities/
 title: Other Activities
-description: 
+description:
 nav: true
 nav_order: 6
 ---
@@ -15,4 +15,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 **2024 -- 2025** <br> _Rochester Pre-College Data Science Challenge_ – Mentor / Judge, Rochester Institute of Technology.
 
-**2023 -- 2026** <br> _ASA DataFest_ – Mentor / Judge / Steering Committee, Rochester Institute of Technology. 
+**2023 -- 2026** <br> _ASA DataFest_ – Mentor / Judge / Steering Committee, Rochester Institute of Technology.
