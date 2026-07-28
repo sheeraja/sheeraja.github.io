@@ -63,7 +63,7 @@
       "endDate": "2026",
       "summary": "",
       "highlights": [
-        "Developed a functioning LLM-as-Judge framework that reflects its own uncertainty and can be extended to several customers and use-cases, using Python"
+        "Developing a functioning LLM-as-Judge framework that reflects its own uncertainty and can be extended to several customers and use-cases, using Python"
       ]
     },
     {
