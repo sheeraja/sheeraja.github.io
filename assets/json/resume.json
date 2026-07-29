@@ -48,6 +48,7 @@
       "name": "Rochester Institute of Technology",
       "position": "Machine Learning Researcher",
       "startDate": "Aug 2022",
+      "startDateSort": "202208",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -60,6 +61,7 @@
       "name": "Sixfold AI",
       "position": "Applied AI PhD Intern",
       "startDate": "Jun 2026",
+      "startDateSort": "202606",
       "endDate": "Aug 2026",
       "summary": "",
       "highlights": [
@@ -70,6 +72,7 @@
       "name": "Kaiser Permanente",
       "position": "Data Analyst/Data Scientist",
       "startDate": "Apr 2020",
+      "startDateSort": "202004",
       "endDate": "June 2022",
       "summary": "",
       "highlights": [
@@ -87,6 +90,7 @@
       "name": "Kaiser Permanente",
       "position": "Technical Business Analyst",
       "startDate": "Sep 2019",
+      "startDateSort": "201909",
       "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
@@ -98,6 +102,7 @@
       "name": "Syracuse University",
       "position": "Data Analyst (Part-time)",
       "startDate": "Aug 2018",
+      "startDateSort": "201808",
       "endDate": "May 2019",
       "summary": "",
       "highlights": [
@@ -110,6 +115,7 @@
       "name": "Syracuse University",
       "position": "Graduate Research Assistant",
       "startDate": "Oct 2017",
+      "startDateSort": "201710",
       "endDate": "May 2019",
       "summary": "",
       "highlights": [
@@ -120,6 +126,7 @@
       "name": "Tata Consultancy Services (TCS)",
       "position": "Business Analyst",
       "startDate": "Sep 2015",
+      "startDateSort": "201509",
       "endDate": "Jul 2017",
       "summary": "",
       "highlights": [
@@ -135,6 +142,7 @@
       "name": "Mu Sigma Business Solutions Pvt. Ltd.",
       "position": "Trainee Decision Scientist",
       "startDate": "Aug 2014",
+      "startDateSort": "201408",
       "endDate": "Sep 2015",
       "summary": "",
       "highlights": [
