@@ -47,7 +47,7 @@
     {
       "name": "Rochester Institute of Technology",
       "position": "Machine Learning Researcher",
-      "startDate": "2022",
+      "startDate": "Aug 2022",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -59,8 +59,8 @@
     {
       "name": "Sixfold AI",
       "position": "Applied AI PhD Intern",
-      "startDate": "2026",
-      "endDate": "2026",
+      "startDate": "Jun 2026",
+      "endDate": "Aug 2026",
       "summary": "",
       "highlights": [
         "Developing a functioning LLM-as-Judge framework that reflects its own uncertainty and can be extended to several customers and use-cases, using Python"
@@ -69,8 +69,8 @@
     {
       "name": "Kaiser Permanente",
       "position": "Data Analyst/Data Scientist",
-      "startDate": "2020",
-      "endDate": "2022",
+      "startDate": "Apr 2020",
+      "endDate": "June 2022",
       "summary": "",
       "highlights": [
         "Analyzed video visits data and developed multiple Tableau reports with insights for stakeholders",
@@ -86,8 +86,8 @@
     {
       "name": "Kaiser Permanente",
       "position": "Technical Business Analyst",
-      "startDate": "2019",
-      "endDate": "2020",
+      "startDate": "Sep 2019",
+      "endDate": "Apr 2020",
       "summary": "",
       "highlights": [
         "Automated a part of the testing process to reduce testing time from 20 minutes to 30 seconds, using Python",
@@ -97,8 +97,8 @@
     {
       "name": "Syracuse University",
       "position": "Data Analyst (Part-time)",
-      "startDate": "2018",
-      "endDate": "2019",
+      "startDate": "Aug 2018",
+      "endDate": "May 2019",
       "summary": "",
       "highlights": [
         "Analyzed faculty research expenditures, to assess the overall spending incurred by the department, and created reports using Tableau Desktop",
@@ -109,8 +109,8 @@
     {
       "name": "Syracuse University",
       "position": "Graduate Research Assistant",
-      "startDate": "2017",
-      "endDate": "2019",
+      "startDate": "Oct 2017",
+      "endDate": "May 2019",
       "summary": "",
       "highlights": [
         "Worked on analysis of a social network using K-core decomposition, in Python, to segregate nodes into different clusters and to assess the impact of the removal of one node on other nodes"
@@ -119,8 +119,8 @@
     {
       "name": "Tata Consultancy Services (TCS)",
       "position": "Business Analyst",
-      "startDate": "2015",
-      "endDate": "2017",
+      "startDate": "Sep 2015",
+      "endDate": "Jul 2017",
       "summary": "",
       "highlights": [
         "Worked as a Lead for a few projects, in the Visual Analytics team of an American multinational banking and financial services corporation, to report the performance of the business, using Tableau",
